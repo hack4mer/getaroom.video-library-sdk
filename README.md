@@ -8,8 +8,8 @@ Getaroom.video library SDK - Guide to implementing a QR scanner in your own app 
  Payload format: 
         
         {
-            key:"library",
-            value:"https://sample-videos.com/video123/mp4/360/big_buck_bunny_360p_1mb.mp4"
+            "key":"library",
+            "value":"https://sample-videos.com/video123/mp4/360/big_buck_bunny_360p_1mb.mp4"
         }
 - As soon as you send the payload, the video link is loaded in the user's getaroom.video player.
 
